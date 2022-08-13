@@ -79,7 +79,9 @@ From these two things combined, the public power without, individual happiness w
 > in two words, **learn how to produce wealth and how to distribute it, and you will have at once moral
 and material greatness;**
 
-So until today we lacked the second part of this formula of having moral and material greatness in the Internet
+Now we have the Internet Economy working like England centuries ago but we can build a new model relevant the one that great minds already formulated in the Age of Enlightement.
+
+We just need to add the second part to this formula of having moral and material greatness in the Internet.
 
 # Solution
 To solve all the issues above we came up with idea of crypto currency that’s mined by creators and builders by doing their work — content, code, design. We call it - **Impact Tokens**. 
