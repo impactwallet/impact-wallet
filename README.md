@@ -14,7 +14,7 @@ Follow [@SerjKorj](https://twitter.com/SerjKorj) and [@ImpactWallet](https://twi
 
 Why did we started thinking about a new model of distribution of the Internet wealth?
 
-We heard about the problem of "Original sin of the Internet" from a fireside chat between Katie Haun (general partner at [a16z](https://a16z.com)) and Marc Andreessen (co-founder of [a16z](https://a16z.com))
+We heard about the problem of "Original sin of the Internet" from a fireside chat between Katie Haun and Marc Andreessen (co-founder of [a16z](https://a16z.com))
 
 Just listent to this 2min problem explenation: 
 
