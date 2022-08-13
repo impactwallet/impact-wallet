@@ -39,6 +39,49 @@ So the Advertising became as a primary business model in the Internet and this l
 * Enrichment of platforms and undermonetizing developers and content creators 
 
 # Vision
+Watch 1min video bellow to get our vision on that problem
+
+
+
+https://user-images.githubusercontent.com/111051624/184510812-a5c58a04-59d4-4291-b207-4deb31851795.mp4
+
+
+People made and still making the Internet an interesting place and they deserve to be properly rewarded. The Internet Economy is growing. But the wealth of the Internet has not yet been distributed fairly. 
+
+This is the qoute from "_Les Miserables_", Victor Hugo (1862)
+> All the problems that the socialists proposed to themselves,
+cosmogonic visions, revery and mysticism being cast aside, can be
+reduced to two principal problems.
+
+> First problem: To produce wealth.
+> Second problem: To share it.
+
+> The first problem contains the question of work.
+> The second contains the question of salary.
+
+> In the first problem the employment of forces is in question.
+> In the second, the distribution of enjoyment.
+
+> From the proper employment of forces results public power.
+
+> From a good distribution of enjoyments results individual
+happiness.
+
+> By a good distribution, not an equal but an equitable distribution must be understood.
+From these two things combined, the public power without, individual happiness within, results social prosperity.
+
+> Social prosperity means the man happy, the citizen free, the nation great.
+
+> England solves the first of these two problems. She creates wealth admirably, she divides it badly.
+
+> This solution which is complete on one side only leads her fatally to two extremes: monstrous opulence, monstrous wretchedness.
+
+> in two words, learn how to produce wealth and how to distribute it, and you will have at once moral
+and material greatness;
+
+> And you will be worthy to call yourself France.
+
+# Solution
 To solve all the issues above we came up with idea of crypto currency that’s mined by creators and builders by doing their work — content, code, design. We call it - **Impact Tokens**. 
 
 Impact Tokens are issued based on impact each contribution made.
