@@ -18,7 +18,7 @@ We heard about the problem of "Original sin of the Internet" from a fireside cha
 
 Just listent to this 2min problem explenation: https://twitter.com/SerjKorj/status/1530131159786606593
 
-In short he has inventented a browser Netscape and didn't manage to build payments natively into the browser. He tried to do that but back in that days there weren't much trust to the Internet from the payment systems and banks.
+In short: Marc Andreessen has inventented a browser (Netscape) and didn't manage to build payments natively into the browser. He tried to do that but back in that days there weren't much trust to the Internet from the payment systems and banks.
 
 So the Advertising became as a primary business model in the Internet and this led to:
 * Privacy nightmare
