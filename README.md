@@ -53,6 +53,10 @@ Impact Tokens are issued when a creator made a piece of content and a user inter
 
 To measure impact of each contribution we’re taking into account time you spent to create something and multiply on time end-users spent with it.
 
+# Paradigm shift - Time as a price
+
+We want to replace advertising model with a time-based model where everything measured and distributed based on time. 
+
 # Goals: 
 * Solve copyright issues
 * Build a fair distribution of the Internet wealth
