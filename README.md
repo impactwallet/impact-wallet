@@ -1,1 +1,1 @@
-# impact-wallet
+# Impact Wallet
