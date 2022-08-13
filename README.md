@@ -38,6 +38,21 @@ So the Advertising became as a primary business model in the Internet and this l
 * Growig surface content vs meaningful content
 * Enrichment of platforms and undermonetizing developers and content creators 
 
+# Vision
+To solve all the issues above we came up with idea of crypto currency that’s mined by creators and builders by doing their work — content, code, design. We call it - **Impact Tokens**. 
+
+Impact Tokens are issued based on impact each contribution made.
+
+This crypto currency is backed by the real Internet assets and shows a share each contributor’s impact to the entire “Internet GDP”.
+
+# How it works:
+
+Impact Tokens are issued when a creator made a piece of content and a user interacted with it.
+
+<img width="826" alt="IMG_9713" src="https://user-images.githubusercontent.com/111051624/184499371-9a9e0573-6cf3-4b94-a0d4-a8c65144e3e3.png">
+
+To measure impact of each contribution we’re taking into account time you spent to create something and multiply on time end-users spent with it.
+
 # Goals: 
 * Solve copyright issues
 * Build a fair distribution of the Internet wealth
