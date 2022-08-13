@@ -8,7 +8,7 @@ Impact Wallet is an open source project with a mission to make â€˜gold standardâ
 
 Visit [impactwallet.xyz](https://www.impactwallet.xyz) to learn more
 
-Follow [@SerjKorj](https://twitter.com/SerjKorj) and [@ImpactWallet](https://twitter.com/ImpactWallet) on Twitter for important announcements.
+Follow [@SerjKorj](https://twitter.com/SerjKorj) and [@ImpactWallet](https://twitter.com/ImpactWallet) on Twitter and Farcaster for important announcements.
 
 
 # Goals: 
