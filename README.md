@@ -16,7 +16,17 @@ Why did we started thinking about a new model of distribution of the Internet we
 
 We heard about the problem of "Original sin of the Internet" from a fireside chat between Katie Haun (general partner at [a16z](https://a16z.com)) and Marc Andreessen (co-founder of [a16z](https://a16z.com))
 
-Just listent to this 2min problem explenation: https://twitter.com/SerjKorj/status/1530131159786606593
+Just listent to this 2min problem explenation: 
+
+
+
+
+
+https://user-images.githubusercontent.com/111051624/184496769-42fb7228-6a53-4ff8-91fd-27dece46acb2.mov
+
+
+
+
 
 In short: Marc Andreessen has inventented a browser (Netscape) and didn't manage to build payments natively into the browser. He tried to do that but back in that days there weren't much trust to the Internet from the payment systems and banks.
 
