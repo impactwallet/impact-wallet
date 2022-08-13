@@ -10,7 +10,24 @@ Visit [impactwallet.xyz](https://www.impactwallet.xyz) to learn more
 
 Follow [@SerjKorj](https://twitter.com/SerjKorj) and [@ImpactWallet](https://twitter.com/ImpactWallet) on Twitter and Farcaster for important announcements.
 
+# Pleamble
+
+Why did we started thinking about a new model of distribution of the Internet wealth?
+
+We heard about the problem of "Original sin of the Internet" from a fireside chat between Katie Haun (general partner at [a16z](https://a16z.com)) and Marc Andreessen (co-founder of [a16z](https://a16z.com))
+
+Just listent to this 2min problem explenation: https://twitter.com/SerjKorj/status/1530131159786606593
+
+In short he has inventented a browser Netscape and didn't manage to build payments natively into the browser. He tried to do that but back in that days there weren't much trust to the Internet from the payment systems and banks.
+
+So the Advertising became as a primary business model in the Internet and this led to:
+* Privacy nightmare
+* Tracknig users
+* Selling users data
+* Awful [user experience](https://how-i-experience-web-today.com/detail.html)
+* Growig surface content vs meaningful content
+* Entrichment of platforms and undermonetizing developers and content creators 
 
 # Goals: 
 * Solve copyright issues
-* Fair distribution of the Internet wealth
+* Build a fair distribution of the Internet wealth
