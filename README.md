@@ -10,7 +10,7 @@ Visit [impactwallet.xyz](https://www.impactwallet.xyz) to learn more
 
 Follow [@SerjKorj](https://twitter.com/SerjKorj) and [@ImpactWallet](https://twitter.com/ImpactWallet) on Twitter and Farcaster for important announcements.
 
-# Pleamble
+# Preamble
 
 Why did we start thinking about a new model of distribution of the Internet wealth?
 
