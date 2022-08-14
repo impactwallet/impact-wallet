@@ -79,7 +79,9 @@ From these two things combined, the public power without, individual happiness w
 > in two words, **learn how to produce wealth and how to distribute it, and you will have at once moral
 and material greatness;**
 
-Now we have the Internet Economy working like England centuries ago but we can build a new model relevant the one that great minds already formulated in the Age of Enlightement.
+Now we have the Internet Economy working like England centuries ago.
+
+But we now have everything to build a new model relevant the one that great minds already formulated in the Age of Enlightement.
 
 We just need to add the second part to this formula of having moral and material greatness in the Internet.
 
@@ -116,6 +118,8 @@ Impact Tokens are distributed between team members which created platform or too
 
 
 <img width="1009" alt="IMG_3452" src="https://user-images.githubusercontent.com/111051624/184531315-0edbcd30-b675-4f03-ad54-3612dbe5b32a.png">
+
+Every contibutor in the fork will have a fair share of issued tokens based on impact their contribution made
 
 <img width="966" alt="IMG_5534" src="https://user-images.githubusercontent.com/111051624/184531454-1623fccf-4dc2-42d3-81af-7a7062881604.png">
 
