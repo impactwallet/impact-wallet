@@ -139,7 +139,3 @@ Every contibutor in the fork will have a fair share of issued tokens based on im
 <img width="966" alt="IMG_5534" src="https://user-images.githubusercontent.com/111051624/184531454-1623fccf-4dc2-42d3-81af-7a7062881604.png">
 
 
-
-# Goals: 
-* Solve copyright issues
-* Build a fair distribution of the Internet wealth
