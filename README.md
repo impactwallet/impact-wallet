@@ -111,13 +111,13 @@ Time is added to creator’s creation time so the owner of taken asset will take
 
 To clarify the picture above look at this example:
 
-Creator spent 1 hour to create their content. They used a tool for 1 hour to create their content and used someone else's illustration.
+_Creator spent 1 hour to create their content. They used a tool for 1 hour to create their content and used someone else's illustration._
 
 _Tool’s price - 7 min for 1 hour of usage._
 
 _Illustration's price - 5 min._
 
-So total Creation time would be 1 hour 12 min. 
+_So total Creation time would be 1 hour 12 min._
 
 <img width="1021" alt="IMG_4301" src="https://user-images.githubusercontent.com/111051624/184533871-c8bbb5e6-48e8-4113-b6d0-c163e5ffec0e.png">
 
