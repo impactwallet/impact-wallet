@@ -130,13 +130,9 @@ The same would be if someone take your piece of code for developing their produc
 
 Impact Tokens are automatically distributed between platform and everyone who took a part in content creation (pro-rata time)
 
-<img width="952" alt="IMG_8358" src="https://user-images.githubusercontent.com/111051624/184534206-0f4c89e4-81d3-4427-bec2-3a36493de072.png">
+<img width="872" alt="IMG_6662" src="https://user-images.githubusercontent.com/111051624/184534996-47405a7f-b461-4533-80b1-eb483fabf3ab.png">
+<img width="1004" alt="IMG_4677" src="https://user-images.githubusercontent.com/111051624/184534951-306645c6-c5a3-4088-b5b4-17077793d52c.png">
 
-
-Impact Tokens are distributed between team members which created platform or tool based on everyone’s time contribution 
-
-
-<img width="1009" alt="IMG_3452" src="https://user-images.githubusercontent.com/111051624/184531315-0edbcd30-b675-4f03-ad54-3612dbe5b32a.png">
 
 Every contibutor in the fork will have a fair share of issued tokens based on impact their contribution made
 
