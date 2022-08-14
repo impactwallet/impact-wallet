@@ -102,6 +102,25 @@ To measure impact of each contribution we’re taking into account time you spen
 
 We want to replace advertising model with a time-based model where everything measured and distributed based on time. 
 
+Time is added to creator’s creation time so the owner of taken asset will take a part in the future tokens distribution
+
+<img width="953" alt="IMG_7583" src="https://user-images.githubusercontent.com/111051624/184531082-fa407d27-0a03-4b09-9188-337b6f868c13.png">
+
+# Impact Tokens Distribution
+
+Impact Tokens are automatically distributed between platform and everyone who took a part in content creation (pro-rata time)
+
+<img width="947" alt="IMG_1326" src="https://user-images.githubusercontent.com/111051624/184531195-e477ce29-e6b0-4956-94cf-e22d403beae8.png">
+
+Impact Tokens are distributed between team members which created platform or tool based on everyone’s time contribution 
+
+
+<img width="1009" alt="IMG_3452" src="https://user-images.githubusercontent.com/111051624/184531315-0edbcd30-b675-4f03-ad54-3612dbe5b32a.png">
+
+<img width="966" alt="IMG_5534" src="https://user-images.githubusercontent.com/111051624/184531454-1623fccf-4dc2-42d3-81af-7a7062881604.png">
+
+
+
 # Goals: 
 * Solve copyright issues
 * Build a fair distribution of the Internet wealth
