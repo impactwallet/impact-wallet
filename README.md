@@ -106,13 +106,32 @@ We want to replace advertising model with a time-based model where everything me
 
 Time is added to creator’s creation time so the owner of taken asset will take a part in the future tokens distribution
 
-<img width="953" alt="IMG_7583" src="https://user-images.githubusercontent.com/111051624/184531082-fa407d27-0a03-4b09-9188-337b6f868c13.png">
+<img width="946" alt="IMG_5118" src="https://user-images.githubusercontent.com/111051624/184533983-09db064f-d1fe-4dd7-be62-51edcdc3dcae.png">
+
+
+To clarify the picture above look at this example:
+
+Creator spent 1 hour to create their content. They used a tool for 1 hour to create their content and used someone else's illustration.
+
+_Tool’s price - 7 min for 1 hour of usage._
+
+_Illustration's price - 5 min._
+
+So total Creation time would be 1 hour 12 min. 
+
+<img width="1021" alt="IMG_4301" src="https://user-images.githubusercontent.com/111051624/184533871-c8bbb5e6-48e8-4113-b6d0-c163e5ffec0e.png">
+
+All of them made their contribution to conten creation and all of them will take a part in Tokens Distribution.
+
+The same would be if someone take your piece of code for developing their product.
+
 
 # Impact Tokens Distribution
 
 Impact Tokens are automatically distributed between platform and everyone who took a part in content creation (pro-rata time)
 
-<img width="947" alt="IMG_1326" src="https://user-images.githubusercontent.com/111051624/184531195-e477ce29-e6b0-4956-94cf-e22d403beae8.png">
+<img width="952" alt="IMG_8358" src="https://user-images.githubusercontent.com/111051624/184534206-0f4c89e4-81d3-4427-bec2-3a36493de072.png">
+
 
 Impact Tokens are distributed between team members which created platform or tool based on everyone’s time contribution 
 
