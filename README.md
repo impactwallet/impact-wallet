@@ -81,7 +81,7 @@ and material greatness;**
 
 Now we have the Internet Economy working like England centuries ago.
 
-But we now have everything to build a new model relevant the one that great minds already formulated in the Age of Enlightement.
+But now we have everything to build a new model relevant the one that great minds already formulated in the Age of Enlightement.
 
 We just need to add the second part to this formula of having moral and material greatness in the Internet.
 
