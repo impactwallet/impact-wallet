@@ -35,7 +35,7 @@ So the Advertising became as a primary business model in the Internet and this l
 * Tracknig users
 * Selling users data
 * Awful [user experience](https://how-i-experience-web-today.com/detail.html)
-* Growig surface content vs meaningful content
+* Growing surface content vs meaningful content
 * Enrichment of platforms and undermonetizing developers and content creators 
 
 # Vision
