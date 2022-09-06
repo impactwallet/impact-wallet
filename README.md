@@ -121,7 +121,7 @@ _So total Creation time would be 1 hour 12 min._
 
 <img width="1021" alt="IMG_4301" src="https://user-images.githubusercontent.com/111051624/184533871-c8bbb5e6-48e8-4113-b6d0-c163e5ffec0e.png">
 
-All of them made their contribution to content creation and all of them will take a part in Impact Tokens Distribution.
+All of them (creator, developers of the tool, illustrator) made their contribution to tthe content creation and all of them will take a part in Impact Tokens Distribution.
 
 The same would be if someone take your piece of code for developing their product.
 
