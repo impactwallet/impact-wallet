@@ -98,7 +98,7 @@ Member’s dividends is calculated based on their Equity. Every member’s Equit
 
 # The future of work
 
-Just imagine that everyone with their partners can start own business this way: 
+Just imagine that everyone can set up their own business this way: 
 When someone pays for a product or service provided by your Impact Organization every contributor inevitably gets dividends pro-rata their Equity.
 
 
