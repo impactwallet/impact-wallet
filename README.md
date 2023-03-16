@@ -37,14 +37,8 @@ https://user-images.githubusercontent.com/111051624/225662388-65d51b06-f3b9-4876
 
 
 # Vision
-Watch 1min video bellow to get our vision on that problem
 
-
-
-https://user-images.githubusercontent.com/111051624/184510812-a5c58a04-59d4-4291-b207-4deb31851795.mp4
-
-
-People made and still making the Internet an interesting place and they deserve to be properly rewarded. The Internet Economy is growing. But the wealth of the Internet has not yet been distributed fairly. 
+People  (not companies) build greate products, houses, ships, aircrafts, grow food and and so on. People's work makes companies’ owners rich and powerful.  But it would be fair to make results of people's efforts working on them.
 
 This is the qoute from "_Les Miserables_", Victor Hugo (1862)
 > All the problems that the socialists proposed to themselves,
@@ -77,11 +71,11 @@ From these two things combined, the public power without, individual happiness w
 > in two words, **learn how to produce wealth and how to distribute it, and you will have at once moral
 and material greatness;**
 
-Now we have the Internet Economy working like England centuries ago.
+Now we have Economy working like England centuries ago.
 
-But now we have everything to build a new model relevant the one that great minds already formulated in the Age of Enlightement.
+But we have everything to build a new model relevant the one that great minds already formulated in the Age of Enlightement.
 
-We just need to add the second part to this formula of having moral and material greatness in the Internet.
+We just need to add the second part (fair wealth distribution) to this formula of having moral and material greatness. That is why We should turn Economy into Impactonomy.
 
 # Solution
 To solve all the issues above we came up with idea of crypto currency that’s mined by creators and builders by doing their work — content, code, design. We call it - **Impact Tokens**. 
