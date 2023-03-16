@@ -90,9 +90,12 @@ https://user-images.githubusercontent.com/111051624/225686117-fe59b054-f57b-45a4
 
 Time you spent to contribute to the project is recorded and used to calculate Impact Shares. The quantity of Impact Shares influences your Equity. You get dividends based on your Equity.
 
+<img width="915" alt="Frame 34500-1" src="https://user-images.githubusercontent.com/111051624/225687623-4f052ffc-6eba-4ced-b066-791e7ae70d0e.png">
 
 
-To measure impact of each contribution we’re taking into account time you spent to create something and multiply on time end-users spent with it.
+To measure and differentiate Impact of each contribution we use Impact Ratio. The Impact Ratio helps to account ‘the power of influence’ of members contributed the same amount of time.
+
+Member’s dividends is calculated based on their Equity. Every member’s Equity is calculated based on Impact Shares. Impact Shares are earned multiplying member’s contribution time by their Impact Ratio.
 
 # Paradigm shift - Time as a price
 
