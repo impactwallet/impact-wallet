@@ -78,11 +78,13 @@ But we have everything to build a new model relevant the one that great minds al
 We just need to add the second part (fair wealth distribution) to this formula of having moral and material greatness. That is why We should turn Economy into Impactonomy.
 
 # Solution
-To solve all the issues above we came up with idea of crypto currency that’s mined by creators and builders by doing their work — content, code, design. We call it - **Impact Tokens**. 
 
-Impact Tokens are issued based on impact each contribution made.
 
-This crypto currency is backed by the real Internet assets and shows a share each contributor’s impact to the entire “Internet GDP”.
+
+https://user-images.githubusercontent.com/111051624/225686117-fe59b054-f57b-45a4-b8b5-9dcc5667c87d.mp4
+
+
+
 
 # How it works:
 
