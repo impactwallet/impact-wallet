@@ -86,53 +86,16 @@ https://user-images.githubusercontent.com/111051624/225686117-fe59b054-f57b-45a4
 
 
 
-# How it works:
-
-Time you spent to contribute to the project is recorded and used to calculate Impact Shares. The quantity of Impact Shares influences your Equity. You get dividends based on your Equity.
-
-<img width="915" alt="Frame 34500-1" src="https://user-images.githubusercontent.com/111051624/225687623-4f052ffc-6eba-4ced-b066-791e7ae70d0e.png">
-
+# How to calculate Impact your contribution made?
 
 To measure and differentiate Impact of each contribution we use Impact Ratio. The Impact Ratio helps to account ‘the power of influence’ of members contributed the same amount of time.
 
 Member’s dividends is calculated based on their Equity. Every member’s Equity is calculated based on Impact Shares. Impact Shares are earned multiplying time member spent to contribute by their Impact Ratio.
 
-# Paradigm shift - Time as a price
-
-We want to replace advertising model with a time-based model where everything measured and distributed based on time. 
-
-Time is added to creator’s creation time so the owner of taken asset will take a part in the future tokens distribution
-
-<img width="946" alt="IMG_5118" src="https://user-images.githubusercontent.com/111051624/184533983-09db064f-d1fe-4dd7-be62-51edcdc3dcae.png">
+<img width="915" alt="Frame 34500-1" src="https://user-images.githubusercontent.com/111051624/225687623-4f052ffc-6eba-4ced-b066-791e7ae70d0e.png">
 
 
-To clarify the picture above look at this example:
-
-_Creator spent 1 hour to create their content. They used a tool for 1 hour to create their content and used someone else's illustration._
-
-_Tool’s price - 7 min for 1 hour of usage._
-
-_Illustration's price - 5 min._
-
-_So total Creation time would be 1 hour 12 min._
-
-<img width="1021" alt="IMG_4301" src="https://user-images.githubusercontent.com/111051624/184533871-c8bbb5e6-48e8-4113-b6d0-c163e5ffec0e.png">
-
-All of them (creator, developers of the tool, illustrator) made their contribution to tthe content creation and all of them will take a part in Impact Tokens Distribution.
-
-The same would be if someone take your piece of code for developing their product.
 
 
-# Impact Tokens Distribution
-
-Impact Tokens are automatically distributed between platform and everyone who took a part in content creation (pro-rata time)
-
-<img width="872" alt="IMG_6662" src="https://user-images.githubusercontent.com/111051624/184534996-47405a7f-b461-4533-80b1-eb483fabf3ab.png">
-<img width="1004" alt="IMG_4677" src="https://user-images.githubusercontent.com/111051624/184534951-306645c6-c5a3-4088-b5b4-17077793d52c.png">
-
-
-Every contibutor in the fork will have a fair share of issued tokens based on impact their contribution made
-
-<img width="966" alt="IMG_5534" src="https://user-images.githubusercontent.com/111051624/184531454-1623fccf-4dc2-42d3-81af-7a7062881604.png">
 
 
