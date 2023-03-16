@@ -96,7 +96,12 @@ Member’s dividends is calculated based on their Equity. Every member’s Equit
 <img width="915" alt="Frame 34500-1" src="https://user-images.githubusercontent.com/111051624/225687623-4f052ffc-6eba-4ced-b066-791e7ae70d0e.png">
 
 
+# The future of work
+
+Just imagine that everyone with their partners can start own business this way: 
+When someone pays for a product or service provided by your Impact Organization every contributor inevitably gets dividends pro-rata their Equity.
 
 
+<img width="1064" alt="Frame 35020-1" src="https://user-images.githubusercontent.com/111051624/225758869-76c30bdd-a46a-46dc-8c22-f978061af04e.png">
 
 
