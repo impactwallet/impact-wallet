@@ -88,9 +88,9 @@ https://user-images.githubusercontent.com/111051624/225686117-fe59b054-f57b-45a4
 
 # How it works:
 
-Impact Tokens are issued when a creator made a piece of content and a user interacted with it.
+Time you spent to contribute to the project is recorded and used to calculate Impact Shares. The quantity of Impact Shares influences your Equity. You get dividends based on your Equity.
 
-<img width="826" alt="IMG_9713" src="https://user-images.githubusercontent.com/111051624/184499371-9a9e0573-6cf3-4b94-a0d4-a8c65144e3e3.png">
+
 
 To measure impact of each contribution we’re taking into account time you spent to create something and multiply on time end-users spent with it.
 
