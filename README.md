@@ -13,9 +13,13 @@ Follow [@SerjKorj](https://twitter.com/SerjKorj) and [@ImpactWallet](https://twi
 
 # Equity
 
-Why did we start thinking about that?
+Why did we start thinking about equity as a game-changer element?
 
 
+
+
+
+https://user-images.githubusercontent.com/111051624/225662388-65d51b06-f3b9-4876-aafa-a57562826d16.mp4
 
 
 
