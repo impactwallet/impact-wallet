@@ -1,10 +1,11 @@
 # Impact Wallet
 
 
-Impact Wallet is an open source project with a mission to make ‘gold standard’ currency for the Internet Economy to ensure every contributor with fair rewards based on impact they made, not Ads
+Impact Wallet is an open source project with a mission to build a new model of cooperation and collaboration between people based on contribution everyone makes to the common business and fair revenue distribution in proportion of Impact everyone's made.
+
+<img width="690" alt="IMG_0514" src="https://user-images.githubusercontent.com/111051624/225644906-7dc2368d-ec26-4f86-8890-96442281a2e5.png">
 
 
-<img width="1003" alt="IMG_3308" src="https://user-images.githubusercontent.com/111051624/184480398-45dbcae9-6b35-4006-9cfc-e1c50d618ae2.png">
 
 Visit [impactwallet.xyz](https://www.impactwallet.xyz) to learn more
 
