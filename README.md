@@ -78,8 +78,9 @@ But we have everything to build a new model relevant the one that great minds al
 We just need to add the second part (fair wealth distribution) to this formula of having moral and material greatness. That is why We should turn Economy into Impactonomy.
 
 # Solution
+We usee blockchain technology and smart contracts to make the idea of equity-based collaboration possible.   
 
-
+Watch 1min video bellow to get it.
 
 https://user-images.githubusercontent.com/111051624/225686117-fe59b054-f57b-45a4-b8b5-9dcc5667c87d.mp4
 
