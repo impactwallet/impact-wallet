@@ -14,6 +14,7 @@ Follow [@SerjKorj](https://twitter.com/SerjKorj) and [@ImpactWallet](https://twi
 # Equity
 
 Why did we start thinking about equity as a game-changer element?
+
 Watch 1min video bellow to get it.
 
 
