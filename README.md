@@ -95,7 +95,7 @@ Time you spent to contribute to the project is recorded and used to calculate Im
 
 To measure and differentiate Impact of each contribution we use Impact Ratio. The Impact Ratio helps to account ‘the power of influence’ of members contributed the same amount of time.
 
-Member’s dividends is calculated based on their Equity. Every member’s Equity is calculated based on Impact Shares. Impact Shares are earned multiplying member’s contribution time by their Impact Ratio.
+Member’s dividends is calculated based on their Equity. Every member’s Equity is calculated based on Impact Shares. Impact Shares are earned multiplying time member spent to contribute by their Impact Ratio.
 
 # Paradigm shift - Time as a price
 
