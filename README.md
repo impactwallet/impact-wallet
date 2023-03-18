@@ -184,4 +184,10 @@ https://user-images.githubusercontent.com/111051624/226104037-2f37d9b4-ac42-4436
 
 https://user-images.githubusercontent.com/111051624/226107756-343dce8c-6879-4b7d-858e-dae1387d6959.mp4
 
+# Demo - How equity allocation for investors works
+
+
+
+https://user-images.githubusercontent.com/111051624/226108069-d6da046c-36dc-4b0c-9bab-b8ac61986a1f.mp4
+
 
