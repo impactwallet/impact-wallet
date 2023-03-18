@@ -105,3 +105,12 @@ When someone pays for a product or service provided by your Impact Organization 
 <img width="1064" alt="Frame 35020-1" src="https://user-images.githubusercontent.com/111051624/225758869-76c30bdd-a46a-46dc-8c22-f978061af04e.png">
 
 
+# Demo - Creating Account on Imact Wallet
+
+We use a link as a login to avoid any possibilities of draining your wallet. 
+Watch demo bellow how to create account on Impact Wallet. 
+
+
+
+https://user-images.githubusercontent.com/111051624/226100050-ef23e0f4-48fc-4293-8117-ccd95c829aa8.mp4
+
