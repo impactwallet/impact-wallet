@@ -125,4 +125,10 @@ https://user-images.githubusercontent.com/111051624/226100203-1efade87-2844-40af
 https://user-images.githubusercontent.com/111051624/226100709-00c6f65c-a952-45cf-87a6-361116a794ea.mp4
 
 
+2) Setting up the conditions for the first member of Impact Organization
+
+
+
+https://user-images.githubusercontent.com/111051624/226100925-7a063721-98be-4fd5-b973-1039f7cfd9a6.mp4
+
 
