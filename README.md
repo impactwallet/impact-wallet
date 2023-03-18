@@ -157,3 +157,9 @@ https://user-images.githubusercontent.com/111051624/226101629-8e3fe561-947b-4c2e
 https://user-images.githubusercontent.com/111051624/226102010-4d99504f-de1a-4db0-860b-b4f625a30a6e.mp4
 
 
+# Demo - How to start contributing to Impact Organization
+
+
+
+https://user-images.githubusercontent.com/111051624/226102304-cb765b83-d6d5-4ea0-837b-08681572eb3c.mp4
+
