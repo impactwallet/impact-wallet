@@ -173,3 +173,8 @@ https://user-images.githubusercontent.com/111051624/226102304-cb765b83-d6d5-4ea0
 https://user-images.githubusercontent.com/111051624/226103344-9c6efab4-2a8f-4814-9a8c-c3041aa124f4.mp4
 
 2) Investing money
+
+
+
+https://user-images.githubusercontent.com/111051624/226104037-2f37d9b4-ac42-4436-9c09-a77dd766d1a7.mp4
+
