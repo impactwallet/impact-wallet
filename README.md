@@ -147,9 +147,6 @@ https://user-images.githubusercontent.com/111051624/226101093-4ea70bab-264d-4fb3
 
 
 
-https://user-images.githubusercontent.com/111051624/226101620-87fc32d5-0adb-4c6d-8278-183987315888.mp4
-
-
 
 https://user-images.githubusercontent.com/111051624/226101629-8e3fe561-947b-4c2e-8d9f-0917514a384a.mp4
 
