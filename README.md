@@ -178,3 +178,10 @@ https://user-images.githubusercontent.com/111051624/226103344-9c6efab4-2a8f-4814
 
 https://user-images.githubusercontent.com/111051624/226104037-2f37d9b4-ac42-4436-9c09-a77dd766d1a7.mp4
 
+3) Watch details what happens after investing money
+
+
+
+https://user-images.githubusercontent.com/111051624/226107756-343dce8c-6879-4b7d-858e-dae1387d6959.mp4
+
+
