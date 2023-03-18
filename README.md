@@ -191,3 +191,8 @@ https://user-images.githubusercontent.com/111051624/226107756-343dce8c-6879-4b7d
 https://user-images.githubusercontent.com/111051624/226108069-d6da046c-36dc-4b0c-9bab-b8ac61986a1f.mp4
 
 
+# Demo - How to receive money on Impact Organization's Account
+
+
+https://user-images.githubusercontent.com/111051624/226108369-2d08ba83-d586-4089-813f-360ecc37f8a9.mp4
+
