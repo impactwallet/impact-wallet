@@ -163,3 +163,13 @@ https://user-images.githubusercontent.com/111051624/226102010-4d99504f-de1a-4db0
 
 https://user-images.githubusercontent.com/111051624/226102304-cb765b83-d6d5-4ea0-837b-08681572eb3c.mp4
 
+
+# Demo - Raising money
+
+1) Creating Investment Proposal
+
+
+
+https://user-images.githubusercontent.com/111051624/226103344-9c6efab4-2a8f-4814-9a8c-c3041aa124f4.mp4
+
+
