@@ -150,3 +150,10 @@ https://user-images.githubusercontent.com/111051624/226101093-4ea70bab-264d-4fb3
 
 https://user-images.githubusercontent.com/111051624/226101629-8e3fe561-947b-4c2e-8d9f-0917514a384a.mp4
 
+2) Sending the link and accepting the offer by the person who is invited to join the Impact Organization
+
+
+
+https://user-images.githubusercontent.com/111051624/226102010-4d99504f-de1a-4db0-860b-b4f625a30a6e.mp4
+
+
