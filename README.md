@@ -107,10 +107,13 @@ When someone pays for a product or service provided by your Impact Organization 
 
 # Demo - Creating Account on Imact Wallet
 
-We use a link as a login to avoid any possibilities of draining your wallet. 
+We use a link as a login to avoid any possibility of draining your wallet. 
 Watch demo bellow how to create account on Impact Wallet. 
 
 
 
-https://user-images.githubusercontent.com/111051624/226100050-ef23e0f4-48fc-4293-8117-ccd95c829aa8.mp4
+
+https://user-images.githubusercontent.com/111051624/226100203-1efade87-2844-40af-aba4-2fb41053f390.mp4
+
+
 
