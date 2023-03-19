@@ -196,3 +196,11 @@ https://user-images.githubusercontent.com/111051624/226108069-d6da046c-36dc-4b0c
 
 https://user-images.githubusercontent.com/111051624/226108369-2d08ba83-d586-4089-813f-360ecc37f8a9.mp4
 
+# Demo - Dividends distribution. 
+Watch how the money is distributed between organization's members
+
+
+
+https://user-images.githubusercontent.com/111051624/226165360-84c66ea8-d32e-4df8-8bdb-0bb7d1de4934.mp4
+
+
