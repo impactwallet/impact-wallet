@@ -204,6 +204,7 @@ Watch how the money is distributed between organization's members
 https://user-images.githubusercontent.com/111051624/226165360-84c66ea8-d32e-4df8-8bdb-0bb7d1de4934.mp4
 
 
+
 # Demo - How to sell your Asset.
 1) Creating offer for buyer
 
@@ -216,6 +217,15 @@ https://user-images.githubusercontent.com/111051624/226165658-a60116fd-c449-4a0f
 
 
 https://user-images.githubusercontent.com/111051624/226165820-887e7ef7-b755-4c7e-993e-85dfd01f68a5.mp4
+
+
+# Demo - How to send your Asset.
+
+
+
+https://user-images.githubusercontent.com/111051624/226166546-3ca7cf85-9e51-4b2e-baa7-23b418652416.mp4
+
+
 
 # Demo - Listing your Asset on Impact Wallet Marketplace.
 
