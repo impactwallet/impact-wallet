@@ -204,3 +204,16 @@ Watch how the money is distributed between organization's members
 https://user-images.githubusercontent.com/111051624/226165360-84c66ea8-d32e-4df8-8bdb-0bb7d1de4934.mp4
 
 
+# Demo - How to sell your Asset.
+1) Creating offer for buyer
+
+
+
+https://user-images.githubusercontent.com/111051624/226165658-a60116fd-c449-4a0f-8b63-723c3e292747.mp4
+
+2) Someone buys your Asset
+
+
+
+https://user-images.githubusercontent.com/111051624/226165820-887e7ef7-b755-4c7e-993e-85dfd01f68a5.mp4
+
