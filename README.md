@@ -3,7 +3,7 @@
 
 Impact Wallet is an open source project with a mission to build a new model of cooperation and collaboration between people based on contribution everyone makes to the common business and fair revenue distribution in proportion of Impact their contribution made.
 
-We call it Impctonomics.
+We call it Impactonomics.
 
 <img width="690" alt="IMG_0514" src="https://user-images.githubusercontent.com/111051624/225644906-7dc2368d-ec26-4f86-8890-96442281a2e5.png">
 
